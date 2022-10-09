@@ -1,0 +1,11 @@
+numpy
+h5py
+ipywidgets
+keras==2.2.5
+tqdm
+scikit-learn
+scipy
+ipykernel
+ipython
+matplotlib
+pandas
